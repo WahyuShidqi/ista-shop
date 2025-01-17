@@ -10,6 +10,11 @@ body {
   font-family: "Playfair Display", serif;
 }
 
+.font-playfair-italic {
+  font-family: "Playfair Display", serif;
+  font-style: italic !important;
+}
+
 .layout_padding {
   padding-top: 90px;
   padding-bottom: 90px;
